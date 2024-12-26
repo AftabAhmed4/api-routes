@@ -48,6 +48,8 @@ useEffect(() => {
       }
     </div>
 
+    <div className="text-xl text-slate-900 font-semibold">Here is new Data</div>
+
 </div>
   );
 }
