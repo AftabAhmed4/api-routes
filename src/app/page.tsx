@@ -49,6 +49,9 @@ useEffect(() => {
     </div>
 
     <div className="text-xl text-slate-900 font-semibold">Here is new Data</div>
+    <div className="text-xl text-slate-900 font-semibold">Here is new Data2</div>
+    <div className="text-xl text-slate-900 font-semibold">Here is new Data3</div>
+    <button>Hello World</button>
 
 </div>
   );
